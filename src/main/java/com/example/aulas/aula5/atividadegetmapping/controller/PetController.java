@@ -1,6 +1,6 @@
-package com.example.aulas.aula5.atividade.controller;
+package com.example.aulas.aula5.atividadegetmapping.controller;
 
-import com.example.aulas.aula5.atividade.model.Pet;
+import com.example.aulas.aula5.atividadegetmapping.model.Pet;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.example.aulas.aula5.atividade.model;
+package com.example.aulas.aula5.atividadegetmapping.model;
 
 public class Pet {
     private String nome;
